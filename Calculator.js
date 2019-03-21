@@ -28,4 +28,4 @@
     return operations[operation](x, y);
  }
 
- console.log(calculate(15,5, '/'));
+ console.log(calculate(12,4, '/'));
